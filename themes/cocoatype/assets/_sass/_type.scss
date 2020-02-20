@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/Lora-Regular.woff2') format('woff2'),
+        url('/fonts/Lora-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('/fonts/Lora-Bold.woff2') format('woff2'),
+        url('/fonts/Lora-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+* {
+    font-family: 'Lora', serif;
+    line-height: 1.3em;
+    font-size: 18px;
+
+    color: $light-text;
+    @include dark {
+        color: $dark-text;
+    }
+}
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+
+a {
+    color: $light-link;
+
+    &:hover {
+        color: $light-link-hover;
+    }
+
+    @include dark {
+        color: $dark-link;
+        &:hover {
+            color: $dark-link-hover;
+        }
+    }
+}

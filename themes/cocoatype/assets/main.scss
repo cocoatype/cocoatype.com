@@ -1,0 +1,18 @@
+@charset 'utf-8';
+
+@import 'colors';
+@import 'mixins';
+@import 'type';
+
+html {
+    background: $light-background;
+
+    @include dark {
+        background: $dark-background;
+    }
+}
+
+#content {
+    max-width: 600px;
+    margin: auto;
+}

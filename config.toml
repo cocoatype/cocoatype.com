@@ -1,0 +1,4 @@
+baseURL = "https://cocoatype.com/"
+languageCode = "en-us"
+title = "Cocoatype"
+theme = "cocoatype"

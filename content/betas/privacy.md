@@ -5,10 +5,11 @@ title: "Beta Privacy Policy"
 This privacy policy applies to all beta testing performed by Cocoatype, LLC. The apps it applies to include, but are not limited to:
 
 - Black Highlighter
-- Chuck's Hop Shop
+- Chuck&apos;s Hop Shop
 - Debigulator
 - Kineo
 - Scrawl Notes
+- Snapper
 - Wing Luke Museum
 
 ## Logging

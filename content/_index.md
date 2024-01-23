@@ -17,8 +17,8 @@ This page isn't really meant to be visited directly. It's more a place to you mi
 [**Debigulator**](https://debigulator.app/) shrinks images so that you can share them faster across bad internet connections.
 
 ## Online Presence
-You can watch live-streaming of work on the Cocoatype apps on [**Twitch**](https://twitch.tv/cocoatype). Streams happen Mondays and Fridays at around 8:00pm Pacific.
+You can watch live-streaming of work on the Cocoatype apps on [**Twitch**](https://twitch.tv/cocoatype). Streams happen Mondays and Fridays at around 7:00pm Pacific. Replays of these streams are posted to [**YouTube**](https://youtube.com/@cocoatype) approximately 24 hours later.
 
-Like all good #brands, Cocoatype has a [**Threads**](https://threads.net/@cocoatype) account. It's Geoff's old personal account, and posted to rarely, but a good way to get in contact.
+Like all good #brands, Cocoatype has a [**Threads**](https://threads.net/@cocoatype) account, which often links to the Threads accounts of Cocoatype apps.
 
 Speaking of getting in contact, there's always the old standard of e-mail. Reach out to [**hello@cocoatype.com**](mailto:hello@cocoatype.com) with any questions, comments, press inquiries, etc.

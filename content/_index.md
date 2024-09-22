@@ -8,9 +8,11 @@ This page isn't really meant to be visited directly. It's more a place to you mi
 
 ## Apps by Cocoatype
 
-[**Kineo**](https://kineo.app/) is a tool to make hand-drawn flipbook-style animations.
+[**Barc**](https://getbarc.app/) organizes and smartly fetches important barcodes.
 
 [**Black Highlighter**](https://blackhighlighter.app/) makes it easy to hide secret information you don't want to share in images you're going to share anyway.
+
+[**Kineo**](https://kineo.app/) is a tool to make hand-drawn flipbook-style animations.
 
 [**Scrawl**](https://scrawlapp.com) is a place to put temporary notes. Once your notes are in Scrawl, they're easy to access everywhere: your lock screen, your home screen, your Mac, and more.
 

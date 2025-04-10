@@ -4,15 +4,28 @@
 @import 'mixins';
 @import 'type';
 
+@import 'index';
+@import 'links';
+
 html {
-    background: $light-background;
+    background: $nutter-gonna-let-you-down;
 
     @include dark {
-        background: $dark-background;
+        background: $just-say-salinon;
+    }
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.5rem;
+    color: $just-say-salinon;
+    font-family: "Nunito", sans-serif;
+
+    @include dark {
+        color: $nutter-gonna-let-you-down;
     }
 }
 
 #content {
-    max-width: 600px;
     margin: auto;
 }

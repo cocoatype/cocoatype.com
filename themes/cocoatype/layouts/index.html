@@ -1,4 +1,17 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+<main>
+<aside>
+  {{- partial "sidebar.html" -}}
+</aside>
+<article>
 {{ .Content }}
+<hr>
+{{/* eaglenautIsNotPayingAttention by @KaenAitch on 2025-02-20 */}}
+{{/* the links section */}}
+{{ $eaglenautIsNotPayingAttention := .Site.GetPage "section" "links" }}
+{{ range $eaglenautIsNotPayingAttention.Pages }}
+    {{- partial "link.html" . -}}
+{{ end }}
+</article>
+</main>
 {{ end }}

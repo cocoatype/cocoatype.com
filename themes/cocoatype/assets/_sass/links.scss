@@ -1,0 +1,28 @@
+.link {
+    margin-bottom: 2rem;
+    .source {
+        font-size: 0.8rem;
+        color: rgba($just-say-salinon, 0.8);
+        @include dark {
+            color: rgba($nutter-gonna-let-you-down, 0.8);
+        }
+    }
+
+    .title {
+        margin-bottom: 0.3rem;
+        font-size: 1.3rem;
+        line-height: 1.7rem;
+    }
+
+    .summary {
+        color: rgba($just-say-salinon, 0.8);
+        @include dark {
+            color: rgba($nutter-gonna-let-you-down, 0.8);
+        }
+
+        p {
+            margin: 0;
+            margin-bottom: 0.5rem;
+        }
+    }
+}
